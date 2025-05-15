@@ -15,3 +15,10 @@ Demo my diff GUI works
 - Can choose the COM port
 - Can choose the Baudrate
 - Can transmit / receive the hex data
+
+---
+3. **03_Chat_tkinter**: URL Chatting GUI
+- Can transmit the text
+- Need to modify the URL desired
+- Using requests module
+- Not test yet
