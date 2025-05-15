@@ -10,4 +10,8 @@ Demo my diff GUI works
 - Close the COM immediately after transmit and receive the hex data
 
 ---
-2. 
+2. **02_UART_C#**: UART Connection GUI
+- Using C# .NET framwork to create the GUI
+- Can choose the COM port
+- Can choose the Baudrate
+- Can transmit / receive the hex data
