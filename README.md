@@ -8,4 +8,6 @@ Demo my diff GUI works
 - Can choose the Baudrate
 - Can transmit / receive the hex data
 - Close the COM immediately after transmit and receive the hex data
+
 ---
+2. 

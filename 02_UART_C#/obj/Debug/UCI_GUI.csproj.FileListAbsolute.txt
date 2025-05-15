@@ -1,0 +1,11 @@
+D:\12739\C_sharp\UCI_GUI\bin\Debug\UCI_GUI.exe.config
+D:\12739\C_sharp\UCI_GUI\bin\Debug\UCI_GUI.exe
+D:\12739\C_sharp\UCI_GUI\bin\Debug\UCI_GUI.pdb
+D:\12739\C_sharp\UCI_GUI\obj\Debug\UCI_GUI.csproj.AssemblyReference.cache
+D:\12739\C_sharp\UCI_GUI\obj\Debug\UCI_GUI.Properties.Resources.resources
+D:\12739\C_sharp\UCI_GUI\obj\Debug\UCI_GUI.csproj.GenerateResource.cache
+D:\12739\C_sharp\UCI_GUI\obj\Debug\UCI_GUI.csproj.CoreCompileInputs.cache
+D:\12739\C_sharp\UCI_GUI\obj\Debug\UCI_GUI.exe
+D:\12739\C_sharp\UCI_GUI\obj\Debug\UCI_GUI.pdb
+D:\12739\C_sharp\UCI_GUI\obj\Debug\UCI_GUI.exe.config
+D:\12739\C_sharp\UCI_GUI\obj\Debug\UartCommunication.MainForm.resources
