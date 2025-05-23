@@ -22,3 +22,8 @@ Demo my diff GUI works
 - Need to modify the URL desired
 - Using requests module
 - Not test yet
+
+---
+4. **04_UART_PyQt5**: Serial Connect GUI with Thread
+- Enhanced edtion of 01 GUI
+- Adding Thread to avoid missing reading data
